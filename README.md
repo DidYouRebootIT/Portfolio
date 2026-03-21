@@ -10,7 +10,7 @@ Welcome! This is a collection of my key IT and tech projects, showcasing hands-o
 - **Description:** Investigated and resolved email delivery failures caused by SMTP 550 error.
 - **Repo / Docs:** (https://github.com/DidYouRebootIT/email-smtp-550-error)
 
-### 2. Custom PC Build and Optimization
+### 2. Active Directory Domain Setup
 - **Description:** Set up a virtual AD environment, configured a basic domain, managed test user accounts and joined a client machine to the domain to gain hands-on experience with domain operations and authentication.
 - **Repo / Docs:** (https://github.com/DidYouRebootIT/active-directory-lab)
 
