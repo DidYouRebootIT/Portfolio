@@ -16,7 +16,7 @@ Welcome! This is a collection of my key IT and tech projects, showcasing hands-o
 
 ### 3. MSI Pro B660M-E Slow Boot Case Study
 - **Description:** Investigated and documented the causes of slow boot on the MSI Pro B660M-E motherboard. Includes testing methods, BIOS settings analysis, and troubleshooting steps.
-- **Repo / Docs:** [Hardware Toolkit](https://github.com/DidYouRebootIT/hardware-toolkit)
+- **Repo / Docs:** (https://github.com/DidYouRebootIT/slow-boot)
 
 ---
 
