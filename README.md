@@ -15,7 +15,7 @@ Welcome! This is a collection of my IT and tech projects, showcasing hands-on ex
 - **Repo / Docs:** (https://github.com/DidYouRebootIT/active-directory-lab)
 
 ### 3. MSI Pro B660M-E Slow Boot Case Study
-- **Description:** Investigated and documented the causes of slow boot on the MSI Pro B660M-E motherboard. Includes testing methods, BIOS settings analysis and troubleshooting steps.
+- **Description:** Investigated and documented the causes of slow boot on an MSI Pro B660M-E motherboard based PC. Includes testing methods, BIOS settings analysis and troubleshooting steps.
 - **Repo / Docs:** (https://github.com/DidYouRebootIT/slow-boot)
 
 ---
