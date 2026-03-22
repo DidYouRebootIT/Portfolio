@@ -1,6 +1,6 @@
 # DidYouRebootIT Portfolio
 
-Welcome! This is a collection of my key IT and tech projects, showcasing hands-on experience in hardware, troubleshooting and system support. Each project includes a brief description and a direct link to its repository or documentation.
+Welcome! This is a collection of my IT and tech projects, showcasing hands-on experience in hardware, troubleshooting and system support. Each project includes a brief description and a direct link to its repository or documentation.
 
 ---
 
