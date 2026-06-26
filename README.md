@@ -6,13 +6,13 @@ Welcome! This is a collection of my IT and tech projects, showcasing hands-on ex
 
 ## Projects
 
-### 1. Email Sending Failure – SMTP 550 Error
+### 1. Active Directory Domain Setup
+- **Description:** Set up a virtual AD environment, configured a basic domain, managed a test user account and joined a client machine to the domain to gain hands-on experience with domain operations and authentication.
+- **Repo / Docs:** (https://github.com/DidYouRebootIT/active-directory-lab)
+
+### 2. Email Sending Failure – SMTP 550 Error
 - **Description:** Investigated and resolved email delivery failures caused by SMTP 550 error.
 - **Repo / Docs:** (https://github.com/DidYouRebootIT/email-smtp-550-error)
-
-### 2. Active Directory Domain Setup
-- **Description:** Set up a virtual AD environment, configured a basic domain, managed test user accounts and joined a client machine to the domain to gain hands-on experience with domain operations and authentication.
-- **Repo / Docs:** (https://github.com/DidYouRebootIT/active-directory-lab)
 
 ### 3. MSI Pro B660M-E Slow Boot Case Study
 - **Description:** Investigated and documented the causes of slow boot on an MSI Pro B660M-E motherboard based PC. Includes testing methods, BIOS settings analysis and troubleshooting steps.
