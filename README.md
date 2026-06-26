@@ -1,24 +1,45 @@
-# DidYouRebootIT Portfolio
+# DidYouRebootIT — IT Portfolio
 
-Welcome! This is a collection of my IT and tech projects, showcasing hands-on experience in hardware, troubleshooting and system support. Each project includes a brief description and a direct link to its repository or documentation.
+Aspiring IT professional with a background in technical support, team coordination, and hands-on troubleshooting. I hold the Google IT Support and Google Cybersecurity certificates and am actively building practical experience through home labs and real-world problem documentation.
+
+This repository is a collection of projects and documented incidents, written the way they would be recorded in a professional environment.
 
 ---
 
 ## Projects
 
-### 1. Active Directory Domain Setup
-- **Description:** Set up a virtual AD environment, configured a basic domain, managed a test user account and joined a client machine to the domain to gain hands-on experience with domain operations and authentication.
-- **Repo / Docs:** (https://github.com/DidYouRebootIT/active-directory-lab)
+### 1. Active Directory Home Lab
 
-### 2. Email Sending Failure – SMTP 550 Error
-- **Description:** Investigated and resolved email delivery failures caused by SMTP 550 error.
-- **Repo / Docs:** (https://github.com/DidYouRebootIT/email-smtp-550-error)
+Set up a virtual AD environment using VMware Workstation and Windows Server 2022. Configured a domain controller, joined a Windows 11 client machine to the domain, created and authenticated a domain user, and troubleshot a DNS misconfiguration along the way.
+
+[View repository →](https://github.com/DidYouRebootIT/active-directory-lab)
+
+---
+
+### 2. Email Sending Failure — SMTP 550 Error
+
+Investigated and resolved email delivery failures caused by an SMTP 550 error. Documented the diagnostic process and root cause.
+
+[View repository →](https://github.com/DidYouRebootIT/email-smtp-550-error)
+
+---
 
 ### 3. MSI Pro B660M-E Slow Boot Case Study
-- **Description:** Investigated and documented the causes of slow boot on an MSI Pro B660M-E motherboard based PC. Includes testing methods, BIOS settings analysis and troubleshooting steps.
-- **Repo / Docs:** (https://github.com/DidYouRebootIT/slow-boot)
+
+Investigated slow boot behavior on an MSI Pro B660M-E based system. Covers BIOS analysis, testing methodology, and the steps taken to identify and resolve the issue.
+
+[View repository →](https://github.com/DidYouRebootIT/slow-boot)
+
+---
+
+## Certifications
+
+- Google IT Support Professional Certificate
+- Google Cybersecurity Certificate
 
 ---
 
 ## Contact
+
 - GitHub: [DidYouRebootIT](https://github.com/DidYouRebootIT)
+- LinkedIn: [Martin Buzalkovski](https://www.linkedin.com/in/martinbuzalkovski)
