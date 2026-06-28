@@ -42,4 +42,4 @@ Investigated slow boot behavior on an MSI Pro B660M-E based system. Covers BIOS 
 ## Contact
 
 - GitHub: [DidYouRebootIT](https://github.com/DidYouRebootIT)
-- LinkedIn: [Martin Buzalkovski](https://www.linkedin.com/in/martinbuzalkovski)
+- LinkedIn: [Martin Buzalkovski](https://www.linkedin.com/in/martin-buzalkovski-38b321131/)
