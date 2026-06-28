@@ -1,6 +1,6 @@
 # DidYouRebootIT — IT Portfolio
 
-Aspiring IT professional with a background in technical support, team coordination, and hands-on troubleshooting. I hold the Google IT Support and Google Cybersecurity certificates and am actively building practical experience through home labs and real-world problem documentation.
+Aspiring IT professional with a background in technical support, team coordination and hands-on troubleshooting. I hold the Google IT Support and Google Cybersecurity certificates and am actively building practical experience through home labs and real-world problem documentation.
 
 This repository is a collection of projects and documented incidents, written the way they would be recorded in a professional environment.
 
