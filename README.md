@@ -16,7 +16,15 @@ Set up a virtual AD environment using VMware Workstation and Windows Server 2022
 
 ---
 
-### 2. Email Sending Failure — SMTP 550 Error
+### 2. Active Directory Home Lab — Part 2: Group Policy, Password Policy & Account Lockout
+
+Configured password and account lockout policies via Group Policy, troubleshot a GPO link order issue and simulated a locked out user scenario resolved through ADUC.
+
+[View repository →](https://github.com/DidYouRebootIT/active-directory-lab-part2)
+
+---
+
+### 3. Email Sending Failure — SMTP 550 Error
 
 Investigated and resolved email delivery failures caused by an SMTP 550 error. Documented the diagnostic process and root cause.
 
@@ -24,7 +32,7 @@ Investigated and resolved email delivery failures caused by an SMTP 550 error. D
 
 ---
 
-### 3. MSI Pro B660M-E Slow Boot Case Study
+### 4. MSI Pro B660M-E Slow Boot Case Study
 
 Investigated slow boot behavior on an MSI Pro B660M-E based system. Covers BIOS analysis, testing methodology, and the steps taken to identify and resolve the issue.
 
